@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/batt101.gif</file>
+        <file>images/batt2.gif</file>
+        <file>images/batt3.gif</file>
+        <file>images/batt4.gif</file>
+        <file>images/batt5.gif</file>
+        <file>images/batt6.gif</file>
+        <file>images/batt7.gif</file>
+        <file>images/batt8.gif</file>
+        <file>images/batt9.gif</file>
+        <file>images/batt10.gif</file>
+        <file>images/batt102.gif</file>
+        <file>images/batt103.gif</file>
+        <file>images/batt201.gif</file>
+        <file>images/batt202.gif</file>
+        <file>images/batt203.gif</file>
+        <file>images/batt204.gif</file>
+        <file>images/batt205.gif</file>
+        <file>images/batt206.gif</file>
+        <file>images/batt1.gif</file>
+    </qresource>
+</RCC>
